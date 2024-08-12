@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+	height: 567px;
+    background-image: url("./image/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+    background-color: #0000008a;
+}
+.first h1 {
+	position: relative;
+	top: 30px;
+	margin-left: 15px;
+	color: crimson;
+	font-weight: 200;
+	font-size: 30px;
+}
+.text {
+	background-color: #5555ba4f;
+	width: 78%;
+	position: relative;
+	margin-left: 258px;
+	top: -20px;
+	display: flex;
+	border: 2px solid red;
+	color: violet;
+}
+.text p {
+	background-color: coral;
+	color: black;
+	border: 2px solid blue;
+	padding: 5px;
+}
+/* .img img{
+    width: 20%;
+    margin-left: 960px;
+    position: relative;
+    top: 4px;
+}
+.lorem p {
+	width: 255px;
+	margin-left: 960px;
+	border: 1px solid white;
+	padding: 2px;
+    display: none;
+    font-weight: 200;
+}
+.type:hover .lorem p{
+    display: block;
+    background-color: blue;
+} */
+.table {
+	margin-left: 364px;
+	position: relative;
+	top: 30px;
+}
+td{
+	padding: 10px 35px;
+	font-size: 15px;
+	font-weight: bold;
+}
+table{
+	border-collapse: collapse;
+	border: 2px solid rgb(13, 37, 94);
+}
+tbody td,tfoot td,thead td{
+	border: 2px solid rgb(13, 37, 94);
+	text-align: center;
+}
+.mind {
+	width: 60%;
+	position: relative;
+	left: 295px;
+	bottom: -76px;
+	border: 1px solid yellow;
+	padding: 32px;
+	text-align: center;
+}
+.mind h1 {
+	color: blueviolet;
+	font-weight: 200;
+	font-size: 30px;
+}
+.mind h3 {
+	color: rgb(41, 208, 141);
+	font-weight: 200;
+	font-size: 20px;
+}
+.mind h4 {
+	color: rgb(41, 208, 141);
+	font-weight: 200;
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
